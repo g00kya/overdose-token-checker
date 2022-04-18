@@ -1,11 +1,11 @@
-# Token Grabber
+# Overdose Token Checker
 
 ![Banner](https://i.hizliresim.com/8qrjx3v.png)
 
     
 ## Important
 
-Token Grabber was created by me so you can find bugs (I hope you don't find)
+Token Checker was created by me so you can find bugs (I hope you don't find)
 
 **NOTE**: Please make an issue if you find a bug
 
@@ -16,25 +16,18 @@ Click the green button and download zip file
 
 Make sure you have [Python](https://www.python.org) installed
 
-
+Open cmd `cd *filePath*` and write `pip install -r requirements.txt`
   
 ## Usage
 
-Open `main.py` and paste your webhook to line 10
+Open `main.py` and choose your option
 
-If you want grabber mentions you when you get a hit edit line 13 as True
+- **option 1** paste your token
+- **option 2** create txt file and paste your tokens and write your txt file's path
 
-```bash 
-# your webhook URL
-WEBHOOK_URL = 'your webhook'
-
-# mentions you when you get a hit
-PING_ME = False
-```
-Run `py to exe.bat` and give a name for output 
 ## Warning
 
-If you enjoyed my grabber drop a 🌟star🌟
+If you enjoyed my checker drop a 🌟star🌟
 
 Discord: gokya#8667
 
